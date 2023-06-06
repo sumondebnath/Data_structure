@@ -4,3 +4,6 @@
 *.txt
 *.exe
 *.bin
+*bin
+bin/
+/bin
